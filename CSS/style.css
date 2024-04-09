@@ -1,0 +1,44 @@
+header {
+    text-align: center;
+    font-size: 2em;
+    font-style: italic;
+    font-weight: bolder;
+    padding: 2%;
+}
+
+table {
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid blue;
+}
+
+th {
+    background-color: blue;
+    color: #fff;
+}
+
+.green {
+    background-color: lightgreen;
+    color:green;
+}
+
+.blue {
+    background-color: lightblue;
+    color:blue;
+}
+
+.red {
+    background-color: rgb(230, 180, 180);
+    color: red;
+}
+
+.black {
+    background-color: cyan;
+    color: black;
+}
+
+footer {
+    text-align: center;
+}
